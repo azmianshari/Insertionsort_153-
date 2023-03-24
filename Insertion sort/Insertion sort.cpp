@@ -67,7 +67,7 @@ void display() {
 	cout << "===============================" << endl;		// Output ke layar
 
 	for (int j = 0; j < n; j++) {							// Looping dengan j dimmulai dari 0 hingga n-1
-		cout << arr[j] << endl;								// Output ke layar
+		cout << arr[j] << endl;								// 
 	}
 	cout << endl;											// Output baris kosong
 }
