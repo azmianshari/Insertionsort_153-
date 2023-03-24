@@ -60,7 +60,7 @@ void insertionsort() {									// Procedure Insertionsort
 
 
 
-void display() {											// Procedure Display
+void display() {											
 	cout << endl;											// Output barus Kosong
 	cout << "\n===============================" << endl;	// Output ke layar
 	cout << "Element Array yang telah tersusun" << endl;	// Output ke layar
