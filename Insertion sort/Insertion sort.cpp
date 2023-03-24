@@ -39,7 +39,7 @@ void insertionsort() {									// Procedure Insertionsort
 
 		temp = arr[i];									// 2. Simpan nilai arr[1] ke Variabel sementara
 
-		j = 1 - 1;										// 3. Setting nilai j sama dengan i-1;
+		j = i - 1;										// 3. Setting nilai j sama dengan i-1;
 
 		while (j >= 0 && arr[j] > temp)					// 4. Looping while dimana j lebih besar sama dengan 0 dan arr[j] lebih besar daripada temp
 		{
